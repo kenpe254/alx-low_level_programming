@@ -2,6 +2,8 @@
 #define MAIN_H
 
 #include <stdio.h>
-#include <unlstd.h>
+#include <unistd.h>
 
 void reset_to_98(int *n);
+
+#endif
