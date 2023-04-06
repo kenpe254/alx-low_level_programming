@@ -37,7 +37,7 @@ int check_pal(char *s, int i, int len)
 {
 	if (*(s + i) != *(s + len - 1 - i))
 		return (0);
-	if (i >= len/2)
+	if (i >= len / 2)
 		return (1);
 	return (check_pal(s, i + 1, len));
 }
