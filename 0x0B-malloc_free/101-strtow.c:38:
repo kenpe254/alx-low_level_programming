@@ -1,0 +1,13 @@
+trtow.c:41: ERROR: space prohibited before that '++' (ctx:WxO)
+101-strtow.c:60: ERROR: space prohibited before that close parenthesis ')'
+101-strtow.c:76: WARNING: More than 40 lines in a function
+101-strtow.c:77: WARNING: More than 40 lines in a function
+101-strtow.c:78: WARNING: More than 40 lines in a function
+101-strtow.c:79: WARNING: More than 40 lines in a function
+101-strtow.c:80: WARNING: More than 40 lines in a function
+101-strtow.c:81: WARNING: More than 40 lines in a function
+101-strtow.c:82: WARNING: More than 40 lines in a function
+total: 2 errors, 8 warnings, 83 lines checked
+101-strtow.c:10: warning: no description found for function count_word
+101-strtow.c:10: warning: No description found for parameter or member 's'
+101-strtow.c:11: warning: Excess function parameter 'str' description in 'count_
